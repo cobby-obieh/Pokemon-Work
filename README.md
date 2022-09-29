@@ -7,3 +7,5 @@ This Pokemon Application website is in #reactjs. I created this application usin
 - Responsiveness not best especially for details page.
 - You for got some "console.logs" in your code. 😅
 
+
+
